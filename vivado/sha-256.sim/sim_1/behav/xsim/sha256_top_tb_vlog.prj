@@ -1,0 +1,11 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../../src/sha256_top.v" \
+"../../../../../src/sha256_w_mem.v" \
+"../../../../../tb/sha256_top_tb.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

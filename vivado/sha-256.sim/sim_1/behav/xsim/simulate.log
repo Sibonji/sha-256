@@ -1,0 +1,16 @@
+Time resolution is 1 ps
+   -- Testbench for sha256 core started --
+*** Toggle reset.
+*** TC 1 single block test case started.
+*** TC 1 successful.
+
+*** TC 2 double block test case started.
+*** TC 2 first block started.
+*** TC 2 first block done.
+*** TC 2 second block started.
+*** TC 2 second block done.
+*** TC 2 first block successful
+
+*** TC 2 second block successful
+
+Running test for 9 block issue.

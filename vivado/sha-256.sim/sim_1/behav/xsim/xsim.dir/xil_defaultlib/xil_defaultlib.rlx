@@ -1,0 +1,8 @@
+0.7
+2020.2
+Oct 14 2022
+05:07:14
+/home/bsibgatullin/study/yadro/sha-256/src/sha256_top.v,1702047535,verilog,,/home/bsibgatullin/study/yadro/sha-256/src/sha256_w_mem.v,,sha256_top,,,,,,,,
+/home/bsibgatullin/study/yadro/sha-256/src/sha256_w_mem.v,1702046991,verilog,,/home/bsibgatullin/study/yadro/sha-256/tb/sha256_top_tb.v,,sha256_w_mem,,,,,,,,
+/home/bsibgatullin/study/yadro/sha-256/tb/sha256_top_tb.v,1702047109,verilog,,,,sha256_top_tb,,,,,,,,
+/home/bsibgatullin/study/yadro/sha-256/vivado/sha-256.sim/sim_1/behav/xsim/glbl.v,1665704903,verilog,,,,glbl,,,,,,,,

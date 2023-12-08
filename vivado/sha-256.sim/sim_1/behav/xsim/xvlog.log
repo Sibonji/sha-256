@@ -1,0 +1,7 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/bsibgatullin/study/yadro/sha-256/src/sha256_top.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module sha256_top
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/bsibgatullin/study/yadro/sha-256/src/sha256_w_mem.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module sha256_w_mem
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/bsibgatullin/study/yadro/sha-256/tb/sha256_top_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module sha256_top_tb
+WARNING: [VRFC 10-2096] empty statement in sequential block [/home/bsibgatullin/study/yadro/sha-256/tb/sha256_top_tb.v:285]
